@@ -8,5 +8,6 @@ class Calculator
       System.out.print("Enter Two No.: ");
       a = sc.nextInt();
       b = sc.nextInt();
+      System.out.print("Addition: "a+b);
   }
 }
